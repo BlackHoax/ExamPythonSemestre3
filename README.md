@@ -1,8 +1,8 @@
 # Examen de Programmation Python - L2
 
-Nom: Mouhamadou Lamine Ly
-Classe: L2 Cybersécurité
-Année universitaire: 2025 - 2026 Semestre 1
+- Nom: Mouhamadou Lamine Ly
+- Classe: L2 Cybersécurité
+- Année universitaire: 2025 - 2026 Semestre 1
 
 ## Description
 
