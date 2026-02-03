@@ -3,18 +3,38 @@ import turtle
 
 def drawSquare():
     # Taille max en pixels
-    print("drawing square")
     MAX_SIZE = 400
+
+    # la taille aléatoire 
+    size = random.randint(1, MAX_SIZE)
+
+    # choix aléatoire de la position
+    turtle.setx(random.random(0, MAX_SIZE))
+    turtle.sety(random.random(0, MAX_SIZE))
+
 
 def drawTriangle():
     # Taille max en pixels
     MAX_SIZE = 400
-    print("drawing triangle")
+
+    # la taille aléatoire 
+    size = random.randint(1, MAX_SIZE)
+
+    # choix aléatoire de la position
+    turtle.setx(random.random(0, MAX_SIZE))
+    turtle.sety(random.random(0, MAX_SIZE))
+
 
 def drawCircle():
     # Taille max en pixels
     MAX_SIZE = 400
-    print("drawing circle")
+
+    # la taille aléatoire 
+    size = random.randint(1, MAX_SIZE)
+
+    # choix aléatoire de la position
+    turtle.setx(random.random(0, MAX_SIZE))
+    turtle.sety(random.random(0, MAX_SIZE))
 
 
 # on demande à l'utilisateur de saisir un nombre entier entre 0 et 9
